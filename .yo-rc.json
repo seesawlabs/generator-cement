@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ivan Morales",
+      "authorEmail": "ivan@imorales.com",
+      "authorUrl": "https://seesawlabs.com"
+    }
+  }
+}
